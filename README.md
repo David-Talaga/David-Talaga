@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @David-Talaga
+- 👀 I’m interested in Synology NAS Packages, Home automation, MacPro 5,1
+- 🌱 I’m currently learning whatever I need to.
+- 💞️ I’m looking to collaborate on data aquistition and automated analysis
+- 📫 How to reach me... here is fine.
