@@ -2,4 +2,5 @@
 - 👀 I’m interested in Synology NAS Packages, Home automation, MacPro 5,1
 - 🌱 I’m currently learning whatever I need to.
 - 💞️ I’m looking to collaborate on data aquistition and automated analysis
+- ⌨️ If you're interested in my branch of MacDown, please understand I updated it only enough to get it working on Apple Silicon and fix the "Open Recent..." bug. 
 - 📫 How to reach me... here is fine.
